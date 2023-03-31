@@ -1,0 +1,16 @@
+Package: mlbadata
+Type: Package
+Title: MLBA - Machine Learning for Business Analytics Concepts, Techniques, and Applications in R
+Version: 0.1.0
+Author: econjjacob
+Maintainer: Peter Gedeck <peter.gedeck@gmail.com>
+Description: Source code and datasets for 
+    "Machine Learning for Business Analytics Concepts, Techniques, and Applications in R"
+    by Galit Shmueli, Peter C. Bruce, Peter Gedeck, Inbal Yahav, Nitin R. Patel. 
+    Publisher: Wiley; 2nd edition (February, 2023) ISBN: 978-1-118-83517-2
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+StagedInstall: no
+LazyDataCompression: bzip2
